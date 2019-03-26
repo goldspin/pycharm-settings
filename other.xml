@@ -1,0 +1,52 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/forsetccc/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharm111/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharm222/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharm333/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharmb111/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/test123/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/v555/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/v666/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/vforseti/bin/python" value="false" />
+        <entry key="$USER_HOME$/git/forseti-security/forsetiddd/bin/python" value="false" />
+        <entry key="$USER_HOME$/git/forseti-security/v111/bin/python" value="false" />
+        <entry key="$USER_HOME$/git/v333/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/forsetccc/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharm111/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharm222/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharm333/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharmb111/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/test123/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/v555/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/v666/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/vforseti/bin/python" value="false" />
+        <entry key="$USER_HOME$/git/forseti-security/forsetiddd/bin/python" value="false" />
+        <entry key="$USER_HOME$/git/forseti-security/v111/bin/python" value="false" />
+        <entry key="$USER_HOME$/git/v333/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/forsetccc/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharm111/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharm222/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharm333/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/pycharmb111/bin/python" value="true" />
+        <entry key="$USER_HOME$/.virtualenvs/test123/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/v555/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/v666/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/vforseti/bin/python" value="false" />
+        <entry key="$USER_HOME$/git/forseti-security/forsetiddd/bin/python" value="false" />
+        <entry key="$USER_HOME$/git/forseti-security/v111/bin/python" value="false" />
+        <entry key="$USER_HOME$/git/v333/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
