@@ -2,7 +2,7 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="Encoding" addBOMForNewFiles="with NO BOM" />
-      <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7 (v333)" project-jdk-type="Python SDK" />
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7 (forseti_venv)” project-jdk-type="Python SDK" />
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
       </component>
