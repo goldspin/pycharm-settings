@@ -1,11 +1,4 @@
 <toolSet name="External Tools">
-  <tool name="pylint" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$USER_HOME$/.virtualenvs/forseti_venv/bin/pylint " />
-      <option name="PARAMETERS" value="--rcfile=pylintrc install/ google/cloud/forseti" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/git_repos/forseti-security/" />
-    </exec>
-  </tool>
   <tool name="pre-commit" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/git_repos/forseti-security/.git/hooks/pre-commit" />
