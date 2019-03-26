@@ -1,200 +1,61 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 2.7 (v333)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/git/v333/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file:///usr/local/buildtools/current/sitecustomize" type="simple" />
-            <root url="file://$USER_HOME$/git/v333/lib/python2.7" type="simple" />
-            <root url="file://$USER_HOME$/git/v333/lib/python2.7/lib-dynload" type="simple" />
-            <root url="file:///usr/lib/python2.7" type="simple" />
-            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
-            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
-            <root url="file://$USER_HOME$/git/v333/local/lib/python2.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/git/v333/local/lib/python2.7/site-packages/forseti_security-2.9.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/sqlalchemy_migrate-0.11.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/SQLAlchemy-1.1.9-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/pylint_quotes-0.1.7-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/ruamel.yaml-0.15.37-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/parameterized-0.6.1-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/mock-2.0.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/simple_crypt-4.1.7-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/sendgrid-5.3.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/retrying-1.3.3-py2.7.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/ratelimiter-1.2.0.post0-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/python_dateutil-2.7.3-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/PyGraph-0.2.1-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/netaddr-0.7.19-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/MySQL_python-1.2.5-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/jmespath-0.9.3-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/Jinja2-2.10-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/google_auth_httplib2-0.0.3-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/google_api_python_client-1.7.7-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/anytree-2.4.3-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/sqlparse-0.2.4-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/pbr-2.0.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/decorator-4.3.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/Tempita-0.5.3.dev0-py2.7.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/ruamel.ordereddict-0.4.13-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/funcsigs-1.0.2-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/pycrypto-2.6.1-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/python_http_client-3.1.0-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/pyOpenSSL-18.0.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/cryptography-2.4.2-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/MarkupSafe-1.1.0-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/httplib2-0.12.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/uritemplate-3.0.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/ipaddress-1.0.22-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/cffi-1.11.5-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/asn1crypto-0.24.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/pycparser-2.19-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/v333/lib/python2.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/git/v333/lib/python2.7/site-packages/forseti_security-2.9.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/526097885" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7 (v555)" />
+      <name value="Python 2.7 (forseti_venv)" />
       <type value="Python SDK" />
       <version value="Python 2.7.14+" />
-      <homePath value="$USER_HOME$/.virtualenvs/v555/bin/python" />
+      <homePath value="$USER_HOME$/.virtualenvs/forseti_venv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
             <root url="file:///usr/local/buildtools/current/sitecustomize" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v555/lib/python2.7" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v555/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/forseti_venv/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/forseti_venv/lib/python2.7/lib-dynload" type="simple" />
             <root url="file:///usr/lib/python2.7" type="simple" />
             <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
             <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v555/local/lib/python2.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v555/local/lib/python2.7/site-packages/forseti_security-2.12.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/sqlalchemy_migrate-0.11.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/SQLAlchemy-1.2.16-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/pylint_quotes-0.2.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/ruamel.yaml-0.15.37-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/parameterized-0.6.1-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/mock-2.0.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/simple_crypt-4.1.7-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/sendgrid-5.6.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/retrying-1.3.3-py2.7.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/ratelimiter-1.2.0.post0-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/python_dateutil-2.7.5-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/PyGraph-0.2.1-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/netaddr-0.7.19-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/MySQL_python-1.2.5-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/jmespath-0.9.3-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/Jinja2-2.10-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/google_auth_httplib2-0.0.3-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/google_auth-1.6.2-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/google_api_python_client-1.7.7-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/anytree-2.4.3-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/sqlparse-0.2.4-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/pbr-2.0.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/decorator-4.3.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/Tempita-0.5.3.dev0-py2.7.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/ruamel.ordereddict-0.4.13-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/funcsigs-1.0.2-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/pycrypto-2.6.1-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/python_http_client-3.1.0-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/pyOpenSSL-18.0.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/cryptography-2.4.2-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/MarkupSafe-1.1.0-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/httplib2-0.12.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/uritemplate-3.0.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/ipaddress-1.0.22-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/cffi-1.11.5-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/asn1crypto-0.24.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/pycparser-2.19-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v555/lib/python2.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v555/lib/python2.7/site-packages/forseti_security-2.12.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/158528068" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/test123" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7 (v666)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.14+" />
-      <homePath value="$USER_HOME$/.virtualenvs/v666/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file:///usr/local/buildtools/current/sitecustomize" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v666/lib/python2.7" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v666/lib/python2.7/lib-dynload" type="simple" />
-            <root url="file:///usr/lib/python2.7" type="simple" />
-            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
-            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v666/local/lib/python2.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v666/local/lib/python2.7/site-packages/forseti_security-2.12.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/sqlalchemy_migrate-0.11.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/SQLAlchemy-1.2.16-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/pylint_quotes-0.2.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/ruamel.yaml-0.15.37-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/parameterized-0.6.1-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/mock-2.0.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/simple_crypt-4.1.7-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/sendgrid-5.6.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/retrying-1.3.3-py2.7.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/ratelimiter-1.2.0.post0-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/python_dateutil-2.7.5-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/PyGraph-0.2.1-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/netaddr-0.7.19-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/MySQL_python-1.2.5-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/jmespath-0.9.3-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/Jinja2-2.10-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/google_auth_httplib2-0.0.3-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/google_auth-1.6.2-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/google_api_python_client-1.7.7-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/anytree-2.4.3-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/sqlparse-0.2.4-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/pbr-2.0.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/decorator-4.3.0-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/Tempita-0.5.3.dev0-py2.7.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/ruamel.ordereddict-0.4.13-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/funcsigs-1.0.2-py2.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/pycrypto-2.6.1-py2.7-linux-x86_64.egg!/" type="simple" />
-            <root url="jar://$USER_HOME$/git/forseti-security/.eggs/python_http_client-3.1.0-py2.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/pyOpenSSL-18.0.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/cryptography-2.4.2-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/MarkupSafe-1.1.0-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/httplib2-0.12.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/uritemplate-3.0.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/ipaddress-1.0.22-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/cffi-1.11.5-py2.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/asn1crypto-0.24.0-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/git/forseti-security/.eggs/pycparser-2.19-py2.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v666/lib/python2.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/.virtualenvs/v666/lib/python2.7/site-packages/forseti_security-2.12.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/forseti_venv/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/forseti_venv/local/lib/python2.7/site-packages/forseti_security-2.12.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/sqlalchemy_migrate-0.11.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/SQLAlchemy-1.2.16-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/pylint_quotes-0.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/ruamel.yaml-0.15.37-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/parameterized-0.6.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/mock-2.0.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/simple_crypt-4.1.7-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/sendgrid-5.6.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/retrying-1.3.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/ratelimiter-1.2.0.post0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/python_dateutil-2.7.5-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/PyGraph-0.2.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/netaddr-0.7.19-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/MySQL_python-1.2.5-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/jmespath-0.9.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/Jinja2-2.10-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/google_auth_httplib2-0.0.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/google_auth-1.6.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/google_api_python_client-1.7.7-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/anytree-2.4.3-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/sqlparse-0.2.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/pbr-2.0.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/decorator-4.3.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/Tempita-0.5.3.dev0-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/ruamel.ordereddict-0.4.13-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/funcsigs-1.0.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/pycrypto-2.6.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/git_repos/forseti-security/.eggs/python_http_client-3.1.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/pyOpenSSL-18.0.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/cryptography-2.4.2-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/MarkupSafe-1.1.0-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/httplib2-0.12.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/uritemplate-3.0.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/ipaddress-1.0.22-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/cffi-1.11.5-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/asn1crypto-0.24.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/git_repos/forseti-security/.eggs/pycparser-2.19-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/forseti_venv/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/forseti_venv/lib/python2.7/site-packages/forseti_security-2.12.0-py2.7.egg" type="simple" />
             <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-511350845" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
@@ -207,7 +68,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git/forseti-security" />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git_repos/forseti-security" />
     </jdk>
   </component>
 </application>
